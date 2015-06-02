@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+
+  "name": "Git Workflow",
+  "description": "Chrome extension for git to quickly see what the next steps are to your git workflow",
+  "version": "1.0.0",
+
+  "browser_action": {
+    "default_icon": "git-icon-small.png",
+    "default_popup": "popup.html"
+  },
+    "icons": {
+        "19": "git-icon-small.png",
+        "48": "git-icon-48.jpg",
+        "128": "git-128.png"
+    }
+}
